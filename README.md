@@ -7,6 +7,8 @@ JDK 11 y Maven
 
 ## Lenguajes utilizados
 
-####HTML y CSS para el formulario
-####Javascript para la obtención de datos
-####Java con Spring Boot para la solicitud de datos de la API y desarrollo de la lógica del ejercicio
+HTML y CSS para el formulario
+
+Javascript para la obtención de datos
+
+Java con Spring Boot para la solicitud de datos de la API y desarrollo de la lógica del ejercicio
